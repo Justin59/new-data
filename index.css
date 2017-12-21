@@ -1,0 +1,29 @@
+body {
+  padding-top: 80px;
+}
+#content {
+  position: relative;
+  height: 500px;
+  overflow-y: scroll;
+}
+.section {
+  height: 550px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+iframe {
+   display: block;
+   margin: 0 auto;
+}
+
+img {
+  display: innline-block;
+  margin: 40px 400px;
+}
+iframe {display: innline-block;
+  margin: 40px 400px;
+}
